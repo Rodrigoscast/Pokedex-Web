@@ -47,4 +47,4 @@ CSS3 🎨
 
 ### 🎨 Imagem final do projeto
 
-![Pokédex Preview](assets/screenshot.png)
+![Pokédex Preview](assets/image.png)
