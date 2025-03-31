@@ -11,13 +11,14 @@ Este é um projeto simples de Pokédex feito com **React.js**, consumindo a **Po
 
 ## 🚀 Como instalar e rodar o projeto
 
-### 2️⃣ Instalar dependências
+### 1️⃣ Clonar o repositório
 ```bash
 git clone https://github.com/Rodrigoscast/Pokedex-Web
-cd pokedex-web
+cd Pokedex-Web
+cd aula3
 ```
 
-### 1️⃣ Clonar o repositório
+### 2️⃣ Instalar dependências
 ```bash
 npm install
 ```
@@ -45,6 +46,6 @@ CSS3 🎨
  ┗ 📜 .gitignore     # Ignorar arquivos desnecessários
 ```
 
-### 🎨 Imagem final do projeto
+### 🎨 Imagens do projeto final
 
-![Pokédex Preview](assets/image.png)
+![Pokédex Preview - Pikachu](assets/image.png)
