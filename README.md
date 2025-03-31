@@ -46,6 +46,11 @@ CSS3 🎨
  ┗ 📜 .gitignore     # Ignorar arquivos desnecessários
 ```
 
+### 🌐 Link para acessar o projeto
+
+
 ### 🎨 Imagens do projeto final
 
-![Pokédex Preview - Pikachu](assets/image.png)
+![Pokédex Preview - Pikachu](assets/pikachu.png)
+![Pokédex Preview - Psyduck](assets/psyduck.png)
+![Pokédex Preview - Haunter](assets/haunter.png)
