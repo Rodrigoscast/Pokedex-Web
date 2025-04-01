@@ -13,9 +13,8 @@ Este é um projeto simples de Pokédex feito com **React.js**, consumindo a **Po
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/Rodrigoscast/Pokedex-Web
+git clone https://github.com/Rodrigoscast/Pokedex-Web.git
 cd Pokedex-Web
-cd aula3
 ```
 
 ### 2️⃣ Instalar dependências
